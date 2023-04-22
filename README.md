@@ -43,6 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 you can start api with this command json-server --watch api/db.json --port 3004
 
+This project is a project for you to keep track of your tasks. I used my own api in this project. You can use the project when you start the api from the terminal. You can enter, delete and update tasks. This is a react.js project.
 
 
 ![image](https://user-images.githubusercontent.com/89755021/233785077-62d1b381-7641-466d-8d7c-494694d1badb.png)
