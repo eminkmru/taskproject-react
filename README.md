@@ -42,3 +42,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 you can start api with this command json-server --watch api/db.json --port 3004
+
+
+
+![image](https://user-images.githubusercontent.com/89755021/233785077-62d1b381-7641-466d-8d7c-494694d1badb.png)
+
